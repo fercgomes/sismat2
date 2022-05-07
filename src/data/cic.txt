@@ -1,0 +1,4 @@
+- lista de disciplinas
+- dependencias
+- turmas disponiveis por disciplina, horarios e professores
+- lista de professores

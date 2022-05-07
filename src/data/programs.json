@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO",
+    "creditosObrigatorios": 152,
+    "creditosEletivos": 36,
+    "numeroTipoAtividadesComplementares": 2,
+    "curriculum": {
+      "1": {
+        "INF01202": {
+          "type": "Obrigatória"
+        },
+        "MAT01353": {
+          "type": "Obrigatória"
+        },
+        "INF05008": {
+          "type": "Obrigatória"
+        },
+        "INF01107": {
+          "type": "Obrigatória"
+        },
+        "MAT01375": {
+          "type": "Obrigatória"
+        }
+      },
+      "2": {
+        "MAT01355": {
+          "type": "Obrigatória",
+          "requires": ["MAT01353"]
+        },
+        "INF01108": {
+          "type": "Obrigatória",
+          "requires": ["INF01107"]
+        },
+        "MAT01354": {
+          "type": "Obrigatória",
+          "requires": ["MAT01353"]
+        },
+        "INF01203": {
+          "type": "Obrigatória",
+          "requires": ["INF01202", "INF05008"]
+        },
+        "INF05512": {
+          "type": "Obrigatória",
+          "requires": ["MAT01375"]
+        }
+      },
+      "3": {
+        "INF01112": {
+          "type": "Obrigatória",
+          "requires": ["INF01108"]
+        },
+        "MAT01032": {
+          "type": "Obrigatória",
+          "requires": ["MAT01355", "INF01202"]
+        },
+        "INF01058": {
+          "type": "Obrigatória",
+          "requires": ["INF01108", "MAT01375"]
+        },
+        "INF01124": {
+          "type": "Obrigatória",
+          "requires": ["INF01203"]
+        },
+        "INF05005": {
+          "type": "Obrigatória",
+          "requires": ["INF05508"]
+        },
+        "MAT02219": {
+          "type": "Obrigatória",
+          "requires": ["MAT01353"]
+        },
+        "INF05501": {
+          "type": "Obrigatória",
+          "requires": ["INF05508"]
+        }
+      },
+      "4": {
+        "INF05515": {
+          "type": "Obrigatória",
+          "requires": ["INF01124", "INF05501", "INF05512"]
+        },
+        "INF01145": {
+          "type": "Obrigatória",
+          "requires": ["INF01124"]
+        },
+        "INF01046": {
+          "type": "Obrigatória",
+          "requires": ["MAT01354", "INF01058"]
+        },
+        "INF01113": {
+          "type": "Obrigatória",
+          "requires": ["INF01112"]
+        },
+        "INF01120": {
+          "type": "Obrigatória",
+          "requires": ["INF01124"],
+          "minCredits": 70
+        }
+      },
+      "5": {
+        "INF01127": {
+          "type": "Obrigatória",
+          "requires": ["INF01120"]
+        },
+        "INF01047": {
+          "type": "Obrigatória",
+          "requires": ["MAT01354", "MAT01355"]
+        },
+        "INF01048": {
+          "type": "Obrigatória",
+          "requires": ["INF01120", "INF05508"]
+        },
+        "INF01121": {
+          "type": "Obrigatória",
+          "requires": ["INF01120"]
+        },
+        "INF05010": {
+          "type": "Obrigatória",
+          "requires": ["INF05515", "MAT01355"]
+        },
+        "INF05516": {
+          "type": "Obrigatória",
+          "requires": ["INF05005"]
+        },
+        "INF01142": {
+          "type": "Obrigatória",
+          "requires": ["INF01112", "INF01203"]
+        }
+      },
+      "6": {
+        "INF01147": {
+          "type": "Obrigatória",
+          "requires": ["INF05516"]
+        },
+        "INF01032": {
+          "type": "Obrigatória",
+          "minCredits": 88
+        },
+        "INF01209": {
+          "type": "Obrigatória",
+          "requires": ["INF01142"]
+        },
+        "INF01043": {
+          "type": "Obrigatória",
+          "requires": ["INF01120"]
+        },
+        "INF01154": {
+          "type": "Obrigatória",
+          "requires": ["MAT02219", "INF01142", "INF01058"]
+        },
+        "INF01151": {
+          "type": "Obrigatória",
+          "requires": ["INF01142"]
+        }
+      },
+      "8": {
+        "TCC": {
+          "type": "Obrigatória",
+          "minCredits": 152
+        }
+      },
+      "others": {}
+    }
+  }
+]

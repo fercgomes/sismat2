@@ -1,0 +1,618 @@
+{
+  "1": {
+    "name": "Carla Maria Dal Sasso Freitas",
+    "email": "carla@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "226",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carla-2012-hr-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "2": {
+    "name": "Luciano Paschoal Gaspary",
+    "email": "paschoal@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "226",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/picture-luciano-gaspary-no-background-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "3": {
+    "name": "Alexandre da Silva Carissimi",
+    "email": "asc@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "207",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carissimi-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "4": {
+    "name": "Álvaro Freitas Moreira",
+    "email": "afmoreira@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "220",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%81lvaro-Freitas-Moreira-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "5": {
+    "name": "Ana Lucia Cetertich Bazzan",
+    "email": "bazzan@inf.ufrgs.b",
+    "buildingId": "43425",
+    "officeId": "241",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Ana-Lucia-Cetertich-Bazzan-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "6": {
+    "name": "André Inacio Reis",
+    "email": "andreis@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "228",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Andr%C3%A9-In%C3%A1cio-Reis-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "7": {
+    "name": "Claudio Fernando Resin Geyer",
+    "email": "geyer@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "221",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/geyer-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "8": {
+    "name": "Daltro José Nunes",
+    "email": "daltro@inf.ufrgs.br",
+    "buildingId": "",
+    "officeId": "",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/12/Daltro-Jos%C3%A9-Nunes-82x110.jpg",
+    "position": "Docente Convidado"
+  },
+  "9": {
+    "name": "Dante Augusto Conte Barone",
+    "email": "barone@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "206",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Dante-Augusto-Couto-Barone1-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "10": {
+    "name": "Edson Prestes e Silva Junior",
+    "email": "prestes@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "244",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/edson-prestes-82x110.png",
+    "position": "Professor Titular"
+  },
+  "11": {
+    "name": "Fernanda Gusmão de Lima Kastensmidt",
+    "email": "fglima@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "247",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Fernanda-Gusm%C3%A3o-de-Lima-Kastensmidt-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "12": {
+    "name": "Flávio Rech Wagner",
+    "email": "flavio@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "21",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/wagner-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "13": {
+    "name": "Jacob Scharcanski",
+    "email": "jacobs@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "214",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Jacob-Scharcanski-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "14": {
+    "name": "João Cesar Netto",
+    "email": "netto@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "234",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Jo%C3%A3o-Cesar-Netto-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "15": {
+    "name": "João Luiz Dihl Comba",
+    "email": "comba@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "230",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/comba2009-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "16": {
+    "name": "José Palazzo Moreira de Oliveira",
+    "email": "palazzo@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "221",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Jos%C3%A9-Palazzo-Moreira-de-Oliveira-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "17": {
+    "name": "José Valdeni de Lima",
+    "email": "valdeni@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "221",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/01/Jos%C3%A9-Valdeni-de-Lima-82x110.jpg",
+    "position": "Professor Titular (Convidado)"
+  },
+  "18": {
+    "name": "Juergen Rochol",
+    "email": "juergen@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "235",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/12/Juergen-Rochol-82x110.jpg",
+    "position": "Professor Titular (Convidado)"
+  },
+  "19": {
+    "name": "Leila Ribeiro",
+    "email": "leila@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "213",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leila-Ribeiro-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "20": {
+    "name": "Lisandro Zambenedetti Granville",
+    "email": "granville@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "227",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lisandro-Zambenedetti-Granville-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "21": {
+    "name": "Luciana Porcher Nedel",
+    "email": "nedel@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "215",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Luciana-Porcher-Nedel-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "22": {
+    "name": "Luigi Carro",
+    "email": "carro@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "224",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Luigi-Carro-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "23": {
+    "name": "Luís da Cunha Lamb",
+    "email": "lamb@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "222",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Diretor-Lamb-82x110.png",
+    "position": "Professor Titular"
+  },
+  "24": {
+    "name": "Manuel Menezes de Oliveira Neto",
+    "email": "oliveira@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "219",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Manuel-Menezes-de-Oliveira-Neto-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "25": {
+    "name": "Mara Abel",
+    "email": "marabel@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "246",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/MaraAbel-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "26": {
+    "name": "Marcelo Soares Pimenta",
+    "email": "mpimenta@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "213",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-Soares-Pimenta-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "27": {
+    "name": "Philippe Olivier Alexandre Navaux",
+    "email": "navaux@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "210",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Philippe-Olivier-Alexandre-Navaux-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "28": {
+    "name": "Renato Perez Ribas",
+    "email": "renato.ribas@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "246",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/renato_face-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "29": {
+    "name": "Ricardo Augusto da Luz Reis",
+    "email": "reis@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "216",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Ricardo-Reis-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "30": {
+    "name": "Rosa Maria Vicari",
+    "email": "rosa@inf.ufrgs.br",
+    "buildingId": "43426",
+    "officeId": "223",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rosa-Maria-Viccari-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "31": {
+    "name": "Serio Bampi",
+    "email": "bampi@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "214",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Sergio-Bampi-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "32": {
+    "name": "Sérgio Luis Cechin",
+    "email": "cechin@inf.ufrgs.br",
+    "buildingId": "43426",
+    "officeId": "234",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/cechin-82x110.png",
+    "position": "Professor Titular"
+  },
+  "33": {
+    "name": "Taisy Silva Weber",
+    "email": "taisy@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "206",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/01/taisy-82x110.jpg",
+    "position": "Professor Titular"
+  },
+  "34": {
+    "name": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/foto-82x110.jpeg",
+    "email": "artavares@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "225",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/foto-82x110.jpeg",
+    "position": "Professor Adjunto"
+  },
+  "35": {
+    "name": "André Grahl Pereira",
+    "email": "agpereira@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "219",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/03/andre_grahl_pereira-82x110.png",
+    "position": "Professor Adjunto"
+  },
+  "36": {
+    "name": "Bruno Castro da Silva",
+    "email": "bruno.silva@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "225",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/10/bruno-castro-da-silva-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "37": {
+    "name": "Claudio Machado Diniz",
+    "email": "claudio.diniz@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "230",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/Foto-perfil-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "38": {
+    "name": "Edison Pignaton de Freitas",
+    "email": "epfreitas@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "224",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/02/edison-82x110.png",
+    "position": "Professor Adjunto"
+  },
+  "39": {
+    "name": "Eduardo Simões Lopes Gastal",
+    "email": "eslgastal@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "219",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/02/Eduardo-Sim%C3%B5es-Lopes-Gastal-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "40": {
+    "name": "Fernando Rosa do Nascimento",
+    "email": "fernando@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "240",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/fernando-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "41": {
+    "name": "Gabriel Luca Nazar",
+    "email": "gabriel.nazar@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "231",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Gabriel-Luca-Nazar-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "42": {
+    "name": "Jéferson Campos Nobre",
+    "email": "jcnobre@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "201",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2019/04/ciencia-computacao-nobre-unisinos-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "43": {
+    "name": "Joel Luís Carbonera",
+    "email": "joel.carbonera@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "202",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2018/08/joel-82x110.png",
+    "position": "Professor Adjunto"
+  },
+  "44": {
+    "name": "José Nicoletti Junior",
+    "email": "jnj@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "240",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/professor-82x110.png",
+    "position": "Professor Adjunto"
+  },
+  "45": {
+    "name": "José Rodrigo Furlanetto Azambuja",
+    "email": "jose.azambuja@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "227",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/02/Jos%C3%A9-Rodrigo-Azambuja-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "46": {
+    "name": "Juliano Araújo Wickboldt",
+    "email": "jwickboldt@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "201",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2018/01/juliano-2012-3x4-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "47": {
+    "name": "Marcello da Rocha Macarthy",
+    "email": "mmacarthy@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "240",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2020/07/MMacarthy-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "48": {
+    "name": "Mariana Recamonde Mendoza",
+    "email": "mrmendoza@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "225",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/10/486541_4193932528621_1569443987_n-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "49": {
+    "name": "Renan de Queiroz Maffei",
+    "email": "rqmaffei@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "224",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/10/RenanMaffei-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "50": {
+    "name": "Rodrigo Machado",
+    "email": "rodrigo.machado@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "217",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rodrigo-Machado.png",
+    "position": "Professor Adjunto"
+  },
+  "51": {
+    "name": "Santiago Valdés Ravelo",
+    "email": "santiago.ravelo@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "222",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2019/04/foto-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "52": {
+    "name": "Thiago Lopes Trugillo da Silveira",
+    "email": "thiago.silveira@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "230",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/photo-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "53": {
+    "name": "Weverton Luis da Costa Cordeiro",
+    "email": "weverton.cordeiro@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "227",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/02/weverton-cordeiro-82x110.jpg",
+    "position": "Professor Adjunto"
+  },
+  "54": {
+    "name": "Alberto Egon Schaeffer Filho",
+    "email": "alberto@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "236",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Alberto-Egon-Schaeffer-Filho-82x110.png",
+    "position": "Professor Associado"
+  },
+  "55": {
+    "name": "Anderson Maciel",
+    "email": "amaciel@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "210",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Anderson-Maciel.jpg",
+    "position": "Professor Associado"
+  },
+  "56": {
+    "name": "Antonio Carlos Schneider Beck Filho",
+    "email": "caco@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "230",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Antonio-Carlos-S.-Beck-Filho.jpg",
+    "position": "Professor Associado"
+  },
+  "57": {
+    "name": "Antônio Marinho Pilla Barcelos",
+    "email": "marinho@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "230",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marinho-P-Barcellos-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "58": {
+    "name": "Claudio Rosito Jung",
+    "email": "crjung@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "218",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Cl%C3%A1udio-Jung-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "59": {
+    "name": "Érika Fernandes Cota",
+    "email": "erika@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "228",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%89rika-Fernandes-Cota-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "60": {
+    "name": "Ingrid Oliveira de Nunes",
+    "email": "ingrid.nunes@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "237",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Ingrid-Oliveira-de-Nunes-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "61": {
+    "name": "Karin Becker",
+    "email": "karin.becker@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "222",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Karin-Becker-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "62": {
+    "name": "Leandro Krug Wives",
+    "email": "wives@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "223",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leandro-Krug-Wives-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "63": {
+    "name": "Lucas Mello Schnorr",
+    "email": "lucas.schnorr@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "202",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucas-Mello-Schnorr-82x110.png",
+    "position": "Professor Associado"
+  },
+  "64": {
+    "name": "Luciana Salete Buriol",
+    "email": "buriol@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "208",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/luciana_buriol-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "65": {
+    "name": "Lucinéia Heloisa Thom",
+    "email": "lucineia@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "228",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucineia-82x110.jpeg",
+    "position": "Professor Associado"
+  },
+  "66": {
+    "name": "Lucio Mauro Duarte",
+    "email": "lmduarte@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "229",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucio-Mauro-Duarte-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "67": {
+    "name": "Marcelo de Oliveira Johann",
+    "email": "johann@inf.ufrgs.br",
+    "buildingId": "43413",
+    "officeId": "208",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-de-Oliveira-Johann-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "68": {
+    "name": "Marcelo Walter",
+    "email": "marcelo.walter@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "222",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/me2-Copia-1-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "69": {
+    "name": "Márcio Dorn",
+    "email": "marcio.dorn@inf.ufrgs.br",
+    "buildingId": "43424",
+    "officeId": "217",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/mdorn-82x110.png",
+    "position": "Professor Associado"
+  },
+  "70": {
+    "name": "Marcus Rolf Peter Ritt",
+    "email": "mrpritt@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "216",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcus-Rolf-Petter-Ritt-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "71": {
+    "name": "Mariana Luderitz Kolberg",
+    "email": "mariana.kolberg@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "231",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Mariana-Luderitz-Kolberg-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "72": {
+    "name": "Nicolas Bruno Maillard",
+    "email": "nicolas@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "236",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Nicolas-Bruno-Maillard-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "73": {
+    "name": "Paolo Rech",
+    "email": "prech@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "242",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Paolo-Rech-82x109.png",
+    "position": "Professor Associado"
+  },
+  "74": {
+    "name": "Renata de Matos Galante",
+    "email": "galante@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "205",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Renata-de-Matos-Galante-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "75": {
+    "name": "Roberto Cabral de Mello Borges",
+    "email": "cabral@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "229",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Roberto-Cabral-de-Mello-Borges-82x110.jpg",
+    "position": "Professor Associado (Convidado)"
+  },
+  "76": {
+    "name": "Valter Roesler",
+    "email": "43424",
+    "buildingId": "223",
+    "officeId": "43424",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Valter-Roesler-82x110.jpg",
+    "position": "Professor Associado"
+  },
+  "77": {
+    "name": "Viviane Pereira Moreira",
+    "email": "viviane@inf.ufrgs.br",
+    "buildingId": "43425",
+    "officeId": "211",
+    "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/viviane-82x110.jpg",
+    "position": "Professor Associado"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "code": "INF01202",
+    "name": "ALGORÍTMOS E PROGRAMAÇÃO - CIC",
+    "duration": 90,
+    "credits": 6
+  },
+  {
+    "code": "MAT01353",
+    "name": "CÁLCULO E GEOMETRIA ANALÍTICA I - A",
+    "duration": 90,
+    "credits": 6
+  },
+  {
+    "code": "INF05008",
+    "name": "FUNDAMENTOS DE ALGORITMOS",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "INF01107",
+    "name": "INTRODUÇÃO À ARQUITETURA DE COMPUTADORES",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "MAT01375",
+    "name": "MATEMÁTICA DISCRETA B",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "MAT01355",
+    "name": "ÁLGEBRA LINEAR I - A",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "INF01108",
+    "name": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES I",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "MAT01354",
+    "name": "CÁLCULO E GEOMETRIA ANALÍTICA II - A",
+    "duration": 60,
+    "credits": 6
+  },
+  {
+    "code": "INF01203",
+    "name": "ESTRUTURA DE DADOS",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "INF05508",
+    "name": "LÓGICA PARA PROGRAMAÇÃO",
+    "duration": 60,
+    "credits": 4
+  },
+  {
+    "code": "INF05512",
+    "name": "TEORIA DOS GRAFOS E ANÁLISE COMBINATÓRIA",
+    "duration": 60,
+    "credits": 4
+  }
+]

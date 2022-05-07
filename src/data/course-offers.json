@@ -1,0 +1,4122 @@
+{
+    "2021/2": {
+        "ADM01134": {
+            "code": "ADM01134",
+            "name": "ADMINISTRA��O E FINAN�AS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quinta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "GILBERTO TAVARES DOS SANTOS"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quarta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CARLA SIMONE RUPPENTHAL"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "20:30",
+                            "endTime": "22:10"
+                        },
+                        "Quarta": {
+                            "startTime": "20:30",
+                            "endTime": "22:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CARLA SIMONE RUPPENTHAL"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT01355": {
+            "code": "MAT01355",
+            "name": "�LGEBRA LINEAR I - A",
+            "credits": 4,
+            "offers": {
+                "A1": {
+                    "oferecidasVets": 18,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 17,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                },
+                "B2": {
+                    "oferecidasVets": 8,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 8,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "LEANDRO FARINA"
+                        },
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                },
+                "Z1": {
+                    "oferecidasVets": 15,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 9,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ALVERI ALVES SANT ANA"
+                        },
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                },
+                "Z2": {
+                    "oferecidasVets": 16,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ALVERI ALVES SANT ANA"
+                        },
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                },
+                "Z4": {
+                    "oferecidasVets": 4,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "LEANDRO FARINA"
+                        },
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                },
+                "Z6": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 9,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quinta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "RODRIGO ORSINI BRAGA"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01202": {
+            "code": "INF01202",
+            "name": "ALGOR�TMOS E PROGRAMA��O - CIC",
+            "credits": 6,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 5,
+                    "vagasAmpl": 0,
+                    "ocupVet": 1,
+                    "ocupCal": 5,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo Walter",
+                            "email": "marcelo.walter@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 222,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/me2-Copia-1-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 7,
+                    "vagasAmpl": 0,
+                    "ocupVet": 2,
+                    "ocupCal": 6,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo Walter",
+                            "email": "marcelo.walter@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 222,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/me2-Copia-1-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 3,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 3,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucas Mello Schnorr",
+                            "email": "lucas.schnorr@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucas-Mello-Schnorr-82x110.png",
+                            "position": "Professor Associado"
+                        },
+                        {
+                            "name": "Marcello da Rocha Macarthy",
+                            "email": "mmacarthy@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 240,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2020/07/MMacarthy-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "D": {
+                    "oferecidasVets": 6,
+                    "oferecidaCalouros": 4,
+                    "vagasAmpl": 0,
+                    "ocupVet": 3,
+                    "ocupCal": 4,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucas Mello Schnorr",
+                            "email": "lucas.schnorr@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucas-Mello-Schnorr-82x110.png",
+                            "position": "Professor Associado"
+                        },
+                        {
+                            "name": "Marcello da Rocha Macarthy",
+                            "email": "mmacarthy@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 240,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2020/07/MMacarthy-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "E": {
+                    "oferecidasVets": 2,
+                    "oferecidaCalouros": 3,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 3,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Joel Luís Carbonera",
+                            "email": "joel.carbonera@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2018/08/joel-82x110.png",
+                            "position": "Professor Adjunto"
+                        },
+                        {
+                            "name": "JONATAS ADILSON MARQUES"
+                        }
+                    ]
+                },
+                "F": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 3,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Joel Luís Carbonera",
+                            "email": "joel.carbonera@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2018/08/joel-82x110.png",
+                            "position": "Professor Adjunto"
+                        },
+                        {
+                            "name": "JONATAS ADILSON MARQUES"
+                        }
+                    ]
+                },
+                "G": {
+                    "oferecidasVets": 2,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 8,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Mara Abel",
+                            "email": "marabel@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 246,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/MaraAbel-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "JONATAS ADILSON MARQUES"
+                        }
+                    ]
+                },
+                "H": {
+                    "oferecidasVets": 2,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 2,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Mara Abel",
+                            "email": "marabel@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 246,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/MaraAbel-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "JONATAS ADILSON MARQUES"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01017": {
+            "code": "INF01017",
+            "name": "APRENDIZADO DE M�QUINA",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 27,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "MARIANA RECAMONDE MENDOZA GUERREIRO"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01108": {
+            "code": "INF01108",
+            "name": "ARQUITETURA E ORGANIZA��O DE COMPUTADORES I",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 39,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 39,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcello da Rocha Macarthy",
+                            "email": "mmacarthy@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 240,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2020/07/MMacarthy-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 19,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Sérgio Luis Cechin",
+                            "email": "cechin@inf.ufrgs.br",
+                            "buildingId": 43426,
+                            "officeId": 234,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/cechin-82x110.png",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "JOS� RODRIGO FURLANETTO DE AZAMBUJA"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01112": {
+            "code": "INF01112",
+            "name": "ARQUITETURA E ORGANIZA��O DE COMPUTADORES II",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 29,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 20,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ANDERSON ROBERTO PINHEIRO DOMINGUES"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 15,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 18,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ANDERSON ROBERTO PINHEIRO DOMINGUES"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01191": {
+            "code": "INF01191",
+            "name": "ARQUITETURAS AVAN�ADAS DE COMPUTADORES",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 12,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Antonio Carlos Schneider Beck Filho",
+                            "email": "caco@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 230,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Antonio-Carlos-S.-Beck-Filho.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05018": {
+            "code": "INF05018",
+            "name": "BIOLOGIA COMPUTACIONAL",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 9,
+                    "ocupVet": 36,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Márcio Dorn",
+                            "email": "marcio.dorn@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/mdorn-82x110.png",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01205": {
+            "code": "INF01205",
+            "name": "CAD PARA SISTEMAS DIGITAIS",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 2,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "André Inacio Reis",
+                            "email": "andreis@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Andr%C3%A9-In%C3%A1cio-Reis-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT01353": {
+            "code": "MAT01353",
+            "name": "C�LCULO E GEOMETRIA ANAL�TICA I - A",
+            "credits": 6,
+            "offers": {
+                "A1": {
+                    "oferecidasVets": 18,
+                    "oferecidaCalouros": 24,
+                    "vagasAmpl": 0,
+                    "ocupVet": 14,
+                    "ocupCal": 22,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        },
+                        {
+                            "name": "JOSE AFONSO BARRIONUEVO"
+                        }
+                    ]
+                },
+                "A2": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 1,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        },
+                        {
+                            "name": "JOSE AFONSO BARRIONUEVO"
+                        }
+                    ]
+                },
+                "C2": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        },
+                        {
+                            "name": "JOSE AFONSO BARRIONUEVO"
+                        }
+                    ]
+                },
+                "D2": {
+                    "oferecidasVets": 18,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 17,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        }
+                    ]
+                },
+                "E1": {
+                    "oferecidasVets": 3,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 4,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quarta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Sexta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        }
+                    ]
+                },
+                "Z2": {
+                    "oferecidasVets": 3,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        },
+                        {
+                            "name": "LINEIA SCHUTZ"
+                        }
+                    ]
+                },
+                "Z3": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 1,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "FLAVIA MALTA BRANCO"
+                        },
+                        {
+                            "name": "LINEIA SCHUTZ"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT01354": {
+            "code": "MAT01354",
+            "name": "C�LCULO E GEOMETRIA ANAL�TICA II - A",
+            "credits": 6,
+            "offers": {
+                "A1": {
+                    "oferecidasVets": 61,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 51,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "JOANA MOHR"
+                        },
+                        {
+                            "name": "VIRGINIA MARIA RODRIGUES"
+                        }
+                    ]
+                },
+                "C1": {
+                    "oferecidasVets": 11,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "RICARDO MISTURINI"
+                        },
+                        {
+                            "name": "VIRGINIA MARIA RODRIGUES"
+                        }
+                    ]
+                },
+                "D1": {
+                    "oferecidasVets": 1,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 3,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DIEGO MARCON FARIAS"
+                        },
+                        {
+                            "name": "VIRGINIA MARIA RODRIGUES"
+                        }
+                    ]
+                },
+                "E1": {
+                    "oferecidasVets": 3,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quarta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Sexta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DIEGO MARCON FARIAS"
+                        },
+                        {
+                            "name": "VIRGINIA MARIA RODRIGUES"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT01032": {
+            "code": "MAT01032",
+            "name": "C�LCULO NUM�RICO A",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DAGOBERTO ADRIANO RIZZOTTO JUSTO"
+                        }
+                    ]
+                },
+                "Z1": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 25,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ALVARO LUIZ DE BORTOLI"
+                        },
+                        {
+                            "name": "DAGOBERTO ADRIANO RIZZOTTO JUSTO"
+                        }
+                    ]
+                },
+                "Z2": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ALVARO LUIZ DE BORTOLI"
+                        },
+                        {
+                            "name": "DAGOBERTO ADRIANO RIZZOTTO JUSTO"
+                        }
+                    ]
+                },
+                "Z3": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 7,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ALVARO LUIZ DE BORTOLI"
+                        },
+                        {
+                            "name": "DAGOBERTO ADRIANO RIZZOTTO JUSTO"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01058": {
+            "code": "INF01058",
+            "name": "CIRCUITOS DIGITAIS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 4,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renato Perez Ribas",
+                            "email": "renato.ribas@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 246,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/renato_face-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 15,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "André Inacio Reis",
+                            "email": "andreis@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Andr%C3%A9-In%C3%A1cio-Reis-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 16,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 16,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo de Oliveira Johann",
+                            "email": "johann@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 208,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-de-Oliveira-Johann-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01124": {
+            "code": "INF01124",
+            "name": "CLASSIFICA��O E PESQUISA DE DADOS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 35,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 26,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "João Luiz Dihl Comba",
+                            "email": "comba@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 230,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/comba2009-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 9,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Leandro Krug Wives",
+                            "email": "wives@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 223,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leandro-Krug-Wives-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01147": {
+            "code": "INF01147",
+            "name": "COMPILADORES",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 25,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucas Mello Schnorr",
+                            "email": "lucas.schnorr@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucas-Mello-Schnorr-82x110.png",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 27,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo de Oliveira Johann",
+                            "email": "johann@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 208,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-de-Oliveira-Johann-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05515": {
+            "code": "INF05515",
+            "name": "COMPLEXIDADE DE ALGORITMOS - B",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 32,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 24,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "MARIANA LUDERITZ KOLBERG FERNANDES"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 34,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 17,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "MARIANA LUDERITZ KOLBERG FERNANDES"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01140": {
+            "code": "INF01140",
+            "name": "COMPUTADOR E SOCIEDADE",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Dante Augusto Conte Barone",
+                            "email": "barone@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 206,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Dante-Augusto-Couto-Barone1-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01005": {
+            "code": "INF01005",
+            "name": "COMUNICA��O DE DADOS",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 7,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Gabriel Luca Nazar",
+                            "email": "gabriel.nazar@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 231,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Gabriel-Luca-Nazar-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01185": {
+            "code": "INF01185",
+            "name": "CONCEP��O DE CIRCUITOS INTEGRADOS I",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Serio Bampi",
+                            "email": "bampi@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 214,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Sergio-Bampi-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01056": {
+            "code": "INF01056",
+            "name": "DESAFIOS DE PROGRAMA��O",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 21,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Santiago Valdés Ravelo",
+                            "email": "santiago.ravelo@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 222,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2019/04/foto-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "ECO02254": {
+            "code": "ECO02254",
+            "name": "ECONOMIA A",
+            "credits": 4,
+            "offers": {
+                "C": {
+                    "oferecidasVets": 6,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 2,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "S�bado": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "LEONEL TOSHIO CLEMENTE"
+                        }
+                    ]
+                },
+                "D": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "16:30",
+                            "endTime": "18:10"
+                        },
+                        "Quinta": {
+                            "startTime": "16:30",
+                            "endTime": "18:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DANIELA DIAS KUHN"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01032": {
+            "code": "INF01032",
+            "name": "EMPREENDIMENTO EM INFORM�TICA",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 18,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 19,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Érika Fernandes Cota",
+                            "email": "erika@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%89rika-Fernandes-Cota-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 28,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 27,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Alexandre da Silva Carissimi",
+                            "email": "asc@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 207,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carissimi-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01127": {
+            "code": "INF01127",
+            "name": "ENGENHARIA DE SOFTWARE N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 15,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucinéia Heloisa Thom",
+                            "email": "lucineia@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucineia-82x110.jpeg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 17,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 18,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucinéia Heloisa Thom",
+                            "email": "lucineia@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucineia-82x110.jpeg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01001": {
+            "code": "INF01001",
+            "name": "ESPECIFICA��O FORMAL N",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 15,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Daltro José Nunes",
+                            "email": "daltro@inf.ufrgs.br",
+                            "buildingId": "",
+                            "officeId": "",
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/12/Daltro-Jos%C3%A9-Nunes-82x110.jpg",
+                            "position": "Docente Convidado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01203": {
+            "code": "INF01203",
+            "name": "ESTRUTURAS DE DADOS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 22,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Viviane Pereira Moreira",
+                            "email": "viviane@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 211,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/viviane-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 24,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Viviane Pereira Moreira",
+                            "email": "viviane@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 211,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/07/viviane-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 31,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 31,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renata de Matos Galante",
+                            "email": "galante@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 205,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Renata-de-Matos-Galante-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "FIS01181": {
+            "code": "FIS01181",
+            "name": "F�SICA I-C",
+            "credits": 6,
+            "offers": {
+                "C2": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "GUSTAVO DE MEDEIROS AZEVEDO"
+                        },
+                        {
+                            "name": "DANIEL GAMERMANN"
+                        },
+                        {
+                            "name": "RUBEM ERICHSEN JUNIOR"
+                        }
+                    ]
+                }
+            }
+        },
+        "FIS01183": {
+            "code": "FIS01183",
+            "name": "F�SICA III-C",
+            "credits": 6,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 0,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CAROLINA BRITO CARVALHO DOS SANTOS"
+                        },
+                        {
+                            "name": "MARCO AURELIO PIRES IDIART"
+                        }
+                    ]
+                }
+            }
+        },
+        "FIS01184": {
+            "code": "FIS01184",
+            "name": "F�SICA IV-C",
+            "credits": 6,
+            "offers": {
+                "DD": {
+                    "oferecidasVets": 3,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 0,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quarta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Sexta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CILAINE VERONICA TEIXEIRA"
+                        },
+                        {
+                            "name": "FABIANO BERNARDI"
+                        },
+                        {
+                            "name": "JOSE HENRIQUE RODRIGUES DOS SANTOS"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05008": {
+            "code": "INF05008",
+            "name": "FUNDAMENTOS DE ALGORITMOS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 15,
+                    "vagasAmpl": 0,
+                    "ocupVet": 14,
+                    "ocupCal": 13,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "JO�O MARCOS FLACH"
+                        },
+                        {
+                            "name": "Leila Ribeiro",
+                            "email": "leila@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leila-Ribeiro-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 17,
+                    "oferecidaCalouros": 9,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 9,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Leila Ribeiro",
+                            "email": "leila@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leila-Ribeiro-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 23,
+                    "oferecidaCalouros": 3,
+                    "vagasAmpl": 0,
+                    "ocupVet": 8,
+                    "ocupCal": 3,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Leila Ribeiro",
+                            "email": "leila@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leila-Ribeiro-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "D": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "JO�O MARCOS FLACH"
+                        },
+                        {
+                            "name": "Leila Ribeiro",
+                            "email": "leila@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Leila-Ribeiro-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01145": {
+            "code": "INF01145",
+            "name": "FUNDAMENTOS DE BANCO DE DADOS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 29,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 29,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Karin Becker",
+                            "email": "karin.becker@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 222,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Karin-Becker-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 19,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 20,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renata de Matos Galante",
+                            "email": "galante@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 205,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Renata-de-Matos-Galante-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01047": {
+            "code": "INF01047",
+            "name": "FUNDAMENTOS DE COMPUTA��O GR�FICA",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 32,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Eduardo Simões Lopes Gastal",
+                            "email": "eslgastal@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 219,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/02/Eduardo-Sim%C3%B5es-Lopes-Gastal-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01046": {
+            "code": "INF01046",
+            "name": "FUNDAMENTOS DE PROCESSAMENTO DE IMAGENS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Jacob Scharcanski",
+                            "email": "jacobs@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 214,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Jacob-Scharcanski-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 31,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 32,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Manuel Menezes de Oliveira Neto",
+                            "email": "oliveira@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 219,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Manuel-Menezes-de-Oliveira-Neto-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01209": {
+            "code": "INF01209",
+            "name": "FUNDAMENTOS DE TOLER�NCIA A FALHAS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 26,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 29,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Taisy Silva Weber",
+                            "email": "taisy@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 206,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/01/taisy-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 19,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Sérgio Luis Cechin",
+                            "email": "cechin@inf.ufrgs.br",
+                            "buildingId": 43426,
+                            "officeId": 234,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/cechin-82x110.png",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01030": {
+            "code": "INF01030",
+            "name": "FUNDAMENTOS DE VIS�O COMPUTACIONAL",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 21,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Claudio Rosito Jung",
+                            "email": "crjung@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 218,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Cl%C3%A1udio-Jung-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01015": {
+            "code": "INF01015",
+            "name": "GER�NCIA E APLICA��ES EM REDES",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 9,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Jéferson Campos Nobre",
+                            "email": "jcnobre@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 201,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2019/04/ciencia-computacao-nobre-unisinos-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01048": {
+            "code": "INF01048",
+            "name": "INTELIG�NCIA ARTIFICIAL",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 23,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ANDERSON ROCHA TAVARES"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 28,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 16,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "ANDERSON ROCHA TAVARES"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01043": {
+            "code": "INF01043",
+            "name": "INTERA��O HOMEM-COMPUTADOR",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 31,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Carla Maria Dal Sasso Freitas",
+                            "email": "carla@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 226,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carla-2012-hr-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Luciana Porcher Nedel",
+                            "email": "nedel@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 215,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Luciana-Porcher-Nedel-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01107": {
+            "code": "INF01107",
+            "name": "INTRODU��O � ARQUITETURA DE COMPUTADORES",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 26,
+                    "oferecidaCalouros": 3,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 2,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Claudio Machado Diniz",
+                            "email": "claudio.diniz@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 230,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/Foto-perfil-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 3,
+                    "vagasAmpl": 0,
+                    "ocupVet": 8,
+                    "ocupCal": 3,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Claudio Machado Diniz",
+                            "email": "claudio.diniz@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 230,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2021/02/Foto-perfil-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 8,
+                    "vagasAmpl": 0,
+                    "ocupVet": 9,
+                    "ocupCal": 7,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renato Perez Ribas",
+                            "email": "renato.ribas@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 246,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/renato_face-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "D": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 10,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 9,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renato Perez Ribas",
+                            "email": "renato.ribas@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 246,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/renato_face-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01022": {
+            "code": "INF01022",
+            "name": "LABORAT�RIO DE SISTEMA DE SOFTWARE",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 31,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo Soares Pimenta",
+                            "email": "mpimenta@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-Soares-Pimenta-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05005": {
+            "code": "INF05005",
+            "name": "LINGUAGENS FORMAIS E AUT�MATOS N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 26,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucio Mauro Duarte",
+                            "email": "lmduarte@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 229,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucio-Mauro-Duarte-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Lucio Mauro Duarte",
+                            "email": "lmduarte@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 229,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Lucio-Mauro-Duarte-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05508": {
+            "code": "INF05508",
+            "name": "L�GICA PARA COMPUTA��O",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 28,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "André Grahl Pereira",
+                            "email": "agpereira@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 219,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/03/andre_grahl_pereira-82x110.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 24,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 22,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Márcio Dorn",
+                            "email": "marcio.dorn@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/mdorn-82x110.png",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 24,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 24,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Rosa Maria Vicari",
+                            "email": "rosa@inf.ufrgs.br",
+                            "buildingId": 43426,
+                            "officeId": 223,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rosa-Maria-Viccari-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT01375": {
+            "code": "MAT01375",
+            "name": "MATEM�TICA DISCRETA B",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 20,
+                    "vagasAmpl": 2,
+                    "ocupVet": 22,
+                    "ocupCal": 18,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CIBELE APARECIDA LADEIA"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 31,
+                    "oferecidaCalouros": 9,
+                    "vagasAmpl": 0,
+                    "ocupVet": 29,
+                    "ocupCal": 9,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CIBELE APARECIDA LADEIA"
+                        },
+                        {
+                            "name": "GIOVANE MANSAN"
+                        }
+                    ]
+                },
+                "U": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 4,
+                    "ocupVet": 9,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "CIBELE APARECIDA LADEIA"
+                        },
+                        {
+                            "name": "GIOVANE MANSAN"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01121": {
+            "code": "INF01121",
+            "name": "MODELOS DE LINGUAGEM DE PROGRAMA��O",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 32,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 34,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Jéferson Campos Nobre",
+                            "email": "jcnobre@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 201,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2019/04/ciencia-computacao-nobre-unisinos-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01113": {
+            "code": "INF01113",
+            "name": "ORGANIZA��O DE COMPUTADORES B",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 29,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 22,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Luigi Carro",
+                            "email": "carro@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 224,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Luigi-Carro-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 25,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 27,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Gabriel Luca Nazar",
+                            "email": "gabriel.nazar@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 231,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Gabriel-Luca-Nazar-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05010": {
+            "code": "INF05010",
+            "name": "OTIMIZA��O COMBINAT�RIA",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 5,
+                    "ocupVet": 35,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcus Rolf Peter Ritt",
+                            "email": "mrpritt@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 216,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcus-Rolf-Petter-Ritt-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 5,
+                    "ocupVet": 35,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "GABRIEL MATTOS LANGELOH"
+                        }
+                    ]
+                }
+            }
+        },
+        "MAT02219": {
+            "code": "MAT02219",
+            "name": "PROBABILIDADE E ESTAT�STICA",
+            "credits": 4,
+            "offers": {
+                "A1": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 5,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DANILO MARCONDES FILHO"
+                        },
+                        {
+                            "name": "LIANE WERNER"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "B1": {
+                    "oferecidasVets": 5,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "DANILO MARCONDES FILHO"
+                        },
+                        {
+                            "name": "LIANE WERNER"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "C1": {
+                    "oferecidasVets": 4,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 4,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "HUGO HENRIQUE KEGLER DOS SANTOS"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "D1": {
+                    "oferecidasVets": 4,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 4,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "HUGO HENRIQUE KEGLER DOS SANTOS"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "F1": {
+                    "oferecidasVets": 3,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 4,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "20:30",
+                            "endTime": "22:10"
+                        },
+                        "Quinta": {
+                            "startTime": "20:30",
+                            "endTime": "22:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "HUGO HENRIQUE KEGLER DOS SANTOS"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "Z4": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 2,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "16:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "LISIANE PRISCILA ROLDAO SELAU"
+                        },
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        }
+                    ]
+                },
+                "Z5": {
+                    "oferecidasVets": 24,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 10,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "16:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "M�RCIA HELENA BARBIAN"
+                        },
+                        {
+                            "name": "MARKUS CHAGAS STEIN"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01008": {
+            "code": "INF01008",
+            "name": "PROGRAMA��O DISTRIBU�DA E PARALELA",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 16,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 6,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Claudio Fernando Resin Geyer",
+                            "email": "geyer@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 221,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/geyer-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01006": {
+            "code": "INF01006",
+            "name": "PROJETO DE BANCO DE DADOS",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Renata de Matos Galante",
+                            "email": "galante@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 205,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Renata-de-Matos-Galante-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01021": {
+            "code": "INF01021",
+            "name": "PROJETO DE HIPERDOCUMENTOS",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Roberto Cabral de Mello Borges",
+                            "email": "cabral@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 229,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Roberto-Cabral-de-Mello-Borges-82x110.jpg",
+                            "position": "Professor Associado (Convidado)"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01019": {
+            "code": "INF01019",
+            "name": "PROJETO EM COMPUTA��O GR�FICA",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Luciana Porcher Nedel",
+                            "email": "nedel@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 215,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Luciana-Porcher-Nedel-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01154": {
+            "code": "INF01154",
+            "name": "REDES DE COMPUTADORES N",
+            "credits": 6,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 15,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 15,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Luciano Paschoal Gaspary",
+                            "email": "paschoal@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 226,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/picture-luciano-gaspary-no-background-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Valter Roesler",
+                            "email": 43424,
+                            "buildingId": 223,
+                            "officeId": 43424,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Valter-Roesler-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 15,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 15,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Luciano Paschoal Gaspary",
+                            "email": "paschoal@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 226,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/picture-luciano-gaspary-no-background-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Valter Roesler",
+                            "email": 43424,
+                            "buildingId": 223,
+                            "officeId": 43424,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Valter-Roesler-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 10,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Alexandre da Silva Carissimi",
+                            "email": "asc@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 207,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carissimi-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Valter Roesler",
+                            "email": 43424,
+                            "buildingId": 223,
+                            "officeId": 43424,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Valter-Roesler-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "D": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Sexta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Alexandre da Silva Carissimi",
+                            "email": "asc@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 207,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/carissimi-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Valter Roesler",
+                            "email": 43424,
+                            "buildingId": 223,
+                            "officeId": 43424,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Valter-Roesler-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05516": {
+            "code": "INF05516",
+            "name": "SEM�NTICA FORMAL N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 30,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Álvaro Freitas Moreira",
+                            "email": "afmoreira@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 220,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%81lvaro-Freitas-Moreira-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 21,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quinta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Álvaro Freitas Moreira",
+                            "email": "afmoreira@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 220,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%81lvaro-Freitas-Moreira-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01175": {
+            "code": "INF01175",
+            "name": "SISTEMAS DIGITAIS PARA COMPUTADORES A",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 7,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 4,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quinta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Fernanda Gusmão de Lima Kastensmidt",
+                            "email": "fglima@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 247,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Fernanda-Gusm%C3%A3o-de-Lima-Kastensmidt-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01038": {
+            "code": "INF01038",
+            "name": "SISTEMAS ESPECIALISTAS N",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 20,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Joel Luís Carbonera",
+                            "email": "joel.carbonera@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 202,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2018/08/joel-82x110.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01142": {
+            "code": "INF01142",
+            "name": "SISTEMAS OPERACIONAIS I N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 31,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 1,
+                    "ocupVet": 32,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Nicolas Bruno Maillard",
+                            "email": "nicolas@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 236,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Nicolas-Bruno-Maillard-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 20,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Nicolas Bruno Maillard",
+                            "email": "nicolas@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 236,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Nicolas-Bruno-Maillard-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01151": {
+            "code": "INF01151",
+            "name": "SISTEMAS OPERACIONAIS II N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 29,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Alberto Egon Schaeffer Filho",
+                            "email": "alberto@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 236,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Alberto-Egon-Schaeffer-Filho-82x110.png",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 27,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 28,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Weverton Luis da Costa Cordeiro",
+                            "email": "weverton.cordeiro@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 227,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2017/02/weverton-cordeiro-82x110.jpg",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01120": {
+            "code": "INF01120",
+            "name": "T�CNICAS DE CONSTRU��O DE PROGRAMAS",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 33,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 21,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        },
+                        "Quarta": {
+                            "startTime": "10:30",
+                            "endTime": "12:10"
+                        }
+                    },
+                    "professors": []
+                },
+                "B": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 20,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quinta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcelo Soares Pimenta",
+                            "email": "mpimenta@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 213,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcelo-Soares-Pimenta-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05501": {
+            "code": "INF05501",
+            "name": "TEORIA DA COMPUTA��O N",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 23,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 23,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        },
+                        "Quarta": {
+                            "startTime": "8:30",
+                            "endTime": "10:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Rodrigo Machado",
+                            "email": "rodrigo.machado@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rodrigo-Machado.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 26,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quinta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Rodrigo Machado",
+                            "email": "rodrigo.machado@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rodrigo-Machado.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05512": {
+            "code": "INF05512",
+            "name": "TEORIA DOS GRAFOS E AN�LISE COMBINAT�RIA",
+            "credits": 4,
+            "offers": {
+                "A": {
+                    "oferecidasVets": 32,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 32,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Edson Prestes e Silva Junior",
+                            "email": "prestes@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 244,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/edson-prestes-82x110.png",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                },
+                "B": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 31,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "GABRIEL MATTOS LANGELOH"
+                        }
+                    ]
+                },
+                "C": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 29,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Rodrigo Machado",
+                            "email": "rodrigo.machado@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rodrigo-Machado.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01179": {
+            "code": "INF01179",
+            "name": "T�PICOS ESPECIAIS EM COMPUTA��O I",
+            "credits": 2,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Terça": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "André Inacio Reis",
+                            "email": "andreis@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Andr%C3%A9-In%C3%A1cio-Reis-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05009": {
+            "code": "INF05009",
+            "name": "T�PICOS ESPECIAIS EM COMPUTA��O IX",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 12,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        },
+                        "Quarta": {
+                            "startTime": "13:30",
+                            "endTime": "15:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Marcus Rolf Peter Ritt",
+                            "email": "mrpritt@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 216,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Marcus-Rolf-Petter-Ritt-82x110.jpg",
+                            "position": "Professor Associado"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF05013": {
+            "code": "INF05013",
+            "name": "T�PICOS ESPECIAIS EM COMPUTA��O XV",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 40,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 31,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Sexta": {
+                            "startTime": "8:30",
+                            "endTime": "11:50"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Álvaro Freitas Moreira",
+                            "email": "afmoreira@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 220,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/%C3%81lvaro-Freitas-Moreira-82x110.jpg",
+                            "position": "Professor Titular"
+                        },
+                        {
+                            "name": "Rodrigo Machado",
+                            "email": "rodrigo.machado@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 217,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Rodrigo-Machado.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01068": {
+            "code": "INF01068",
+            "name": "T�PICOS ESPECIAIS EM COMPUTA��O XXIV",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 13,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        },
+                        "Quarta": {
+                            "startTime": "18:30",
+                            "endTime": "20:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "André Inacio Reis",
+                            "email": "andreis@inf.ufrgs.br",
+                            "buildingId": 43413,
+                            "officeId": 228,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Andr%C3%A9-In%C3%A1cio-Reis-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01219": {
+            "code": "INF01219",
+            "name": "T�PICOS ESPECIAIS EM COMPUTA��O XXXIV",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 30,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 14,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Edison Pignaton de Freitas",
+                            "email": "epfreitas@inf.ufrgs.br",
+                            "buildingId": 43424,
+                            "officeId": 224,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2015/02/edison-82x110.png",
+                            "position": "Professor Adjunto"
+                        }
+                    ]
+                }
+            }
+        },
+        "INF01050": {
+            "code": "INF01050",
+            "name": "T�PICOS ESPECIAIS EM ENGENHARIA DE COMPUTA��O I",
+            "credits": 4,
+            "offers": {
+                "U": {
+                    "oferecidasVets": 20,
+                    "oferecidaCalouros": 0,
+                    "vagasAmpl": 0,
+                    "ocupVet": 11,
+                    "ocupCal": 0,
+                    "schedule": {
+                        "Segunda": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        },
+                        "Quarta": {
+                            "startTime": "15:30",
+                            "endTime": "17:10"
+                        }
+                    },
+                    "professors": [
+                        {
+                            "name": "Manuel Menezes de Oliveira Neto",
+                            "email": "oliveira@inf.ufrgs.br",
+                            "buildingId": 43425,
+                            "officeId": 219,
+                            "imageUrl": "https://www.inf.ufrgs.br/site/wp-content/uploads/2014/11/Manuel-Menezes-de-Oliveira-Neto-82x110.jpg",
+                            "position": "Professor Titular"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

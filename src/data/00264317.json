@@ -1,0 +1,253 @@
+{
+  "studentId": "00264317",
+  "courseName": "BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO",
+  "name": "FERNANDO CORREA GOMES",
+  "curriculum": [
+    {
+      "semester": "2017/1",
+      "code": "MAT01375",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/1",
+      "code": "INF01202",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/1",
+      "code": "INF01107",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/1",
+      "code": "INF05008",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/1",
+      "code": "MAT01353",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/2",
+      "code": "MAT01354",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/2",
+      "code": "INF05508",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/2",
+      "code": "INF01203",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/2",
+      "code": "INF01108",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2017/2",
+      "code": "MAT01355",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/1",
+      "code": "INF01124",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/1",
+      "code": "INF01112",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/1",
+      "code": "INF05512",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/1",
+      "code": "MAT01032",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/1",
+      "code": "MAT02219",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/2",
+      "code": "INF01058",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/2",
+      "code": "INF01046",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/2",
+      "code": "INF05005",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/2",
+      "code": "INF05501",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2018/2",
+      "code": "INF01145",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/1",
+      "code": "INF01047",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/1",
+      "code": "INF05515",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/1",
+      "code": "INF01113",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/1",
+      "code": "INF05516",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/1",
+      "code": "INF01120",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/2",
+      "code": "INF05018",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/2",
+      "code": "INF01048",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/2",
+      "code": "INF01127",
+      "grade": "A",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/2",
+      "code": "INF01062",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2019/2",
+      "code": "INF01142",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2020/1",
+      "code": "INF01032",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2020/1",
+      "code": "VAERE201",
+      "grade": "-",
+      "status": "Avaliado"
+    },
+    {
+      "semester": "2020/1",
+      "code": "INF01121",
+      "grade": "B",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2020/2",
+      "code": "INF05010",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2020/2",
+      "code": "INF01147",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2020/2",
+      "code": "VAERE202",
+      "grade": "-",
+      "status": "Avaliado"
+    },
+    {
+      "semester": "2021/1",
+      "code": "INF01154",
+      "grade": "C",
+      "status": "Aprovado"
+    },
+    {
+      "semester": "2021/2",
+      "code": "INF01151",
+      "grade": "-",
+      "status": "Matriculado"
+    },
+    {
+      "semester": "2021/2",
+      "code": "INF05013",
+      "grade": "-",
+      "status": "Matriculado"
+    },
+    {
+      "semester": "2021/2",
+      "code": "INF01043",
+      "grade": "-",
+      "status": "Matriculado"
+    },
+    {
+      "semester": "2021/2",
+      "code": "INF01209",
+      "grade": "-",
+      "status": "Matriculado"
+    }
+  ]
+}
